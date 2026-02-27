@@ -54,7 +54,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 Uygulamanın temel özelliklerini ve çalışma mantığını gösteren kısa videoya aşağıdaki linkten ulaşabilirsiniz:
 
-- [YouTube Tanıtım Videosu (Maksimum 1 Dakika)](https://www.youtube.com/watch?v=example_video_id) *(Not: Lütfen kendi video linkinizle güncelleyin)*
+- https://youtube.com/shorts/pNX8Mpe91kQ?si=Rx1jo5Xm_Beb7CrP   
 
 
 ## Proje Yapısı
