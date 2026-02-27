@@ -56,14 +56,6 @@ Uygulamanın temel özelliklerini ve çalışma mantığını gösteren kısa vi
 
 - [YouTube Tanıtım Videosu (Maksimum 1 Dakika)](https://www.youtube.com/watch?v=example_video_id) *(Not: Lütfen kendi video linkinizle güncelleyin)*
 
-## Build Dosyaları (APK / IPA)
-
-Uygulamanın mobil cihazlarda test edilebilmesi için gerekli build dosyaları:
-
-- **Android (APK):** [APK Dosyasını İndir](./builds/app-release.apk) *(Not: Build aldıktan sonra dosyayı bu dizine ekleyiniz)*
-- **iOS (IPA):** [IPA Dosyasını İndir](./builds/app-release.ipa) *(Not: Build aldıktan sonra dosyayı bu dizine ekleyiniz)*
-
-> **Not:** Expo kullanarak build almak için `npx expo export` veya `eas build` komutlarını kullanabilirsiniz.
 
 ## Proje Yapısı
 
